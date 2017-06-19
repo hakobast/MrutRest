@@ -1,0 +1,12 @@
+*.csproj
+*.sln
+*.userprefs
+*.apk
+*.consulo
+WebPlayer_Build/
+Library/
+.consulo/
+.idea
+Temp/
+.DS_Store
+Assets/Resources/Data/Config/
